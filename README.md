@@ -1,8 +1,9 @@
 # Finding-Donors
-Content: Supervised Learning
-Project: Finding Donors for CharityML
-Project Overview
-Apply supervised learning techniques to help CharityML, a fictitious charity organization, identify potential donors. The project involves analyzing U.S. census data to predict individuals who are most likely to donate. Begin by exploring the data and understanding its structure. Preprocess and transform the data to make it suitable for analysis. Evaluate various supervised learning algorithms on the dataset and determine the most effective solution. Optimize the selected model and present it as the recommended solution to CharityML. Lastly, examine the model's performance and predictions to assess its effectiveness in utilizing the available data.
+In this project, I will apply supervised learning techniques and my analytical skills to help CharityML, a fictitious charity organization, identify potential donors. By analyzing data collected from the U.S. census, I will predict individuals who are most likely to donate to their cause. First, I will explore the data and understand how it is recorded. Then, I will preprocess and transform the data to make it suitable for analysis. Next, I will evaluate several supervised learning algorithms of my choice on the dataset and determine which one is best suited for the solution. Once I have selected the most promising model, I will optimize it and present it as my recommended solution to CharityML. Finally, I will delve into the chosen model's performance and predictions to gain insights into how well it is utilizing the available data.
 
-Project Highlights
-Gain familiarity with different supervised learning algorithms in sklearn. Evaluate and compare their performance on specific datasets. Develop an understanding of when to apply certain algorithms and when to avoid them, an important aspect of machine learning.
+
+
+
+
+
+
